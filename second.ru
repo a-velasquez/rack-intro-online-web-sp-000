@@ -11,3 +11,4 @@ class MyServer
     ["<strong>Hello</strong>"]
   end
 end
+run MyServer.new 
